@@ -3,7 +3,8 @@
 ## Lazada and Shopee Analysis
 ### User Experience Analysis
 
-<p align="center" style= "margin-left: 20px; margin-right: 20px; table = width: 22px;"> 
+
+<table>
 
 | **LAZADA** |vs| **SHOPEE** | 
 |:------:|--|:------:|
@@ -15,4 +16,4 @@ Compare the organization of content between the two platforms. Which between the
 |da | vs | da|
 |---|---|----|
 
-</p>
+</table>
