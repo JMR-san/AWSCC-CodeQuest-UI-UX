@@ -2,7 +2,7 @@
 
 <p align="center" style="font-size: 40px; font-family: 'Times New Roman;" > Lazada and Shopee Analysis </p>
 
-<p align="center" style= "margin-left: 20px; margin-right: 20px; width: auto" table = "width: 22px;"> 
+<p align="center" style= "margin-left: 20px; margin-right: 20px; table = width: 22px;"> 
 
 | LAZADA |vs| SHOPEE | 
 |:------:|--|:------:|
