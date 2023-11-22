@@ -4,7 +4,7 @@
 ### User Experience Analysis
 
 
-<table>
+<table width = auto; length = auto;
 
 | **LAZADA** |vs| **SHOPEE** | 
 |:------:|--|:------:|
@@ -16,4 +16,6 @@ Compare the organization of content between the two platforms. Which between the
 |da | vs | da|
 |---|---|----|
 
-</table>
+/>
+
+
