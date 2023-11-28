@@ -21,7 +21,7 @@ Considering different factors and situation, Shopee is more user-friendly than L
 ### User Interface Analysis
 | **LAZADA** |vs| **SHOPEE** | 
 |:----------:|--|:----------:|
-|Lazada can easy at first because of the color of choice. However, because of  |vs|  |
+| Accessing Lazada, you are welcomed with a big banner of advertisements that automatically turn in intervals. Beside the banner, the categories can be found, and dragging your pointer into it will automatically show the sub-categories, which is a great feature because it would lessen the user's work to access different categories. This also works on the round figures within the advertisement banners. Appearance-wise, Lazada may seem boring to some, but considering its logo, it does not complement the whole look of the site. But nevertheless, it also gives a classic vibe and an ease feeling for a new user. |vs| Unlike Lazada, Shopee shows all the options and different features the moment you access the site. But despite this layout, it does not feel overwhelming because of the spacing between icons and banners. Shopee is also better appearance-wise because of their use of bright color that is also the same color scheme as their logo. This can make new users excited and happy when browsing products. Considering different factors, Shopee is much better than Lazada in the visual aspect of the website.  |
 </table>
 
 
