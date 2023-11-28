@@ -16,9 +16,13 @@
 
 Considering different factors and situation, Shopee is more user-friendly than Lazada. Even thought Lazada have the simple and easy interface, Shopee is much easier for the users to distinguish different functions. 
 
+<table width = auto; length = auto;>
+
 ### User Interface Analysis
-|da | vs | da|
-|---|---|----|
+| **LAZADA** |vs| **SHOPEE** | 
+|:----------:|--|:----------:|
+|Lazada can easy at first because of the color of choice. However, because of  |vs|  |
+</table>
 
 
 
